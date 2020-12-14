@@ -10,7 +10,13 @@
 
 From a more technical standpoint, I created spatial (lines, markers, circles and polygons) data objects (with the [`sp`](https://cran.r-project.org/web/packages/sp/index.html) and [`sf`](https://cran.r-project.org/web/packages/sf/index.html) packages) that I fed to a [leaflet](https://cran.r-project.org/web/packages/leaflet/index.html) map, which reacts to user interactions using the [R-Shiny](https://cran.r-project.org/web/packages/shiny/index.html) framework with [Framework7](https://framework7.io/) standalone capabilities -via [shinyMobile](https://cran.r-project.org/web/packages/shinyMobile/index.html)- which ensures functionality across mobile devices.
 
-You may try the (bikem)app [here](https://2exp3.shinyapps.io/mapa-ciclista/). *Note: for obvious reasons, all text is in Spanish*.
+You may try the (bikem)app:
+
+<p align="center">
+   <a href="https://2exp3.shinyapps.io/mapa-ciclista/">HERE</a> 
+</p>
+
+*Note: for obvious reasons, all text is in Spanish*.
 
 Finally, I hope this project further encourages us all to [participate in OSM](https://wiki.openstreetmap.org/wiki/Beginners%27_guide) to not only make this map more accurate and complete, but also to aid many other projects that rely on these data.
 
@@ -28,13 +34,16 @@ Con datos del excelente [proyecto colaborativo OpenStreetMap (OSM)](https://down
 
 Desde un punto de vista técnico, con estos datos generé objetos que representan datos espaciales (líneas, marcadores, círculos y polígonos) con los paquetes [`sp`](https://cran.r-project.org/web/packages/sp/index.html) y [`sf`](https://cran.r-project.org/web/packages/sf/index.html). Con estos objetos, alimenté un mapa generado en [leaflet](https://cran.r-project.org/web/packages/leaflet/index.html) que reacciona a interacciones del usuario usando [R-Shiny](https://cran.r-project.org/web/packages/shiny/index.html) con capacidades de [Framework7](https://framework7.io/)-via [shinyMobile](https://cran.r-project.org/web/packages/shinyMobile/index.html)- que asegura funcionalidad en dispositivos móviles.
 
-Podés probar el mapa [acá](https://2exp3.shinyapps.io/mapa-ciclista/).
+Podés probar el mapa:
+
+<p align="center">
+   <a href="https://2exp3.shinyapps.io/mapa-ciclista/">ACA</a> 
+</p>
 
 Por último, espero que este proyecto nos aliente a [participar como editores en OSM](https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_de_principiantes) no sólo para hacer que este mapa sea más preciso y completo, sino también para ayudar a otros proyectos que recurren a estos datos.
 
 ¡Que lo disfruten!
 
-
-![fa-bicycle](fa-bicycle.svg)
-
+<h3 align="center">
 Con la bici, a todos lados.
+</h3>
