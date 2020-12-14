@@ -10,6 +10,9 @@ source("www/app_helpers.R",encoding = "UTF-8")
 # set our UI====
 ui = 
   f7Page(
+    favicon = "icono.png",
+    icon = "icono.png",
+    manifest = "manifest.json",
     use_waiter(),
 
     includeCSS("www/my_switch.css"),
@@ -220,7 +223,7 @@ server = function(input, output, session) {
       # add locate me
       addEasyButton(
         easyButton(
-          position = "topleft",
+          position = "bottomright",
           icon = "fa-crosshairs",
           title = "Mi ubicacion",
           onClick = JS("
