@@ -40,7 +40,7 @@ ul {word-wrap: break-word;}
 Si ves que hay información que falta o que es incorrecta, sumate al equipo colaborativo de <a href="#" onclick='window.open("https://wiki.openstreetmap.org/wiki/ES:Gu%C3%ADa_de_principiantes");return false;'>Open Street Map</a>, para <b>editar</b> los datos relacionados con calles y lugares.
 <br>
 <br>
-Para acceder más rapido al mapa, agregá la app a la <b>pantalla de inicio</b> de tú teléfono usando 
+Para acceder más rápido al mapa, agregá la app a la <b>pantalla de inicio</b> de tu teléfono usando 
 <ul>
 <li>en Chrome, el botón:  <span class="fas fa-ellipsis-v"></span>  , y <i>"Add to home screen"</i> / <i>"Agregar a la pantalla principal"</i> en <a href="#" onclick='window.open("https://www.xatakandroid.com/aplicaciones-android/como-instalar-aplicaciones-web-progresivas-tu-android-para-ahorrar-espacio");return false;'>Android</a>.</li>
 <li>en Safari, el botón:  <span class="iconify" data-icon="ion-share-outline" data-inline="false"></span>  , y <i>"Add to home screen"</i> / <i>"Añadir a la pantalla de incio"</i> en <a href="#" onclick='window.open("https://www.adapptative.com/adapptative/instalar-pwa-en-ios/");return false;'>iOS</a>.</li>
